@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "commonjs",
+    "jsx": "react",
+    "rootDir": "./src",
+    "noEmit": true /* We're only using tsc for type checking - parcel is the tool that actually generates the bundle. */,
+    "strict": true,
+    "esModuleInterop": true /* Enables us to write "import React from 'react'" instead of "import * as React from 'react'". */,
+    "forceConsistentCasingInFileNames": true
+  }
+}
