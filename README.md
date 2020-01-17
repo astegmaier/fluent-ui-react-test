@@ -1,5 +1,5 @@
 # Purpose 
-This repo tests the ability to import and use components from the [fluent-ui-react](https://github.com/microsoft/fluent-ui-react) library. It demonstrates a bug with the library not including the right type definitions by default.
+This repo tests the ability to import and use components from the [fluent-ui-react](https://github.com/microsoft/fluent-ui-react) library. It demonstrates [a bug](https://github.com/microsoft/fluent-ui-react/issues/2259) with the library not including the right type definitions by default.
 
 ## Repro Steps
 1. Clone this repository locally.
